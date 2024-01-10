@@ -1,6 +1,6 @@
 ﻿Hi there 👋
 
-<p>Check out my portfolio @ <a href="https://ronmagpantay.com">ronmagpantay.com</a></p>
+<p>Check out my portfolio @ <a href="https://ronmagpantay.com">ronmagpantay.com</a></p> (Portfolio update in progress! Ongoing hosting change)
 
 ## About me:
 
