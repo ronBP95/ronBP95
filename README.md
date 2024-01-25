@@ -4,10 +4,9 @@
 
 ## About me:
 
-- 🖥 Full Stack Software Engineer
+- 🖥 API Support Specialist @ airSlate
 - 📖 General Assembly Software Engineering Bootcamp Grad
-- 🌱 Learning More About - Gatsby && GraphQL && Databases
-- 🎮 I'm a PC Gamer and Enthusiast 🖥️
+- 🎮 I'm a Gamer 
 - 📫 How to reach me:
 
 <br />
